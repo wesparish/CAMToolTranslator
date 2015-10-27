@@ -4,6 +4,7 @@ import csv
 
 class ToolBase:
   def __init__():
+    self.cutterName = "End Mill Name"
     self.cutterType = "Flat Mill"
     self.cutterDiam = 0.0
     self.cutterFluteLen = 0.0
